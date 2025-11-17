@@ -1,0 +1,16 @@
+C:\GitHub\BackendEgitimi\05-WebAPI\Week10\Odev10\MovieArchiveApi\MovieArchive.Business\bin\Debug\net10.0\MovieArchive.Business.deps.json
+C:\GitHub\BackendEgitimi\05-WebAPI\Week10\Odev10\MovieArchiveApi\MovieArchive.Business\bin\Debug\net10.0\MovieArchive.Business.dll
+C:\GitHub\BackendEgitimi\05-WebAPI\Week10\Odev10\MovieArchiveApi\MovieArchive.Business\bin\Debug\net10.0\MovieArchive.Business.pdb
+C:\GitHub\BackendEgitimi\05-WebAPI\Week10\Odev10\MovieArchiveApi\MovieArchive.Business\bin\Debug\net10.0\MovieArchive.Data.dll
+C:\GitHub\BackendEgitimi\05-WebAPI\Week10\Odev10\MovieArchiveApi\MovieArchive.Business\bin\Debug\net10.0\MovieArchive.Data.pdb
+C:\GitHub\BackendEgitimi\05-WebAPI\Week10\Odev10\MovieArchiveApi\MovieArchive.Business\obj\Debug\net10.0\MovieArchive.Business.csproj.AssemblyReference.cache
+C:\GitHub\BackendEgitimi\05-WebAPI\Week10\Odev10\MovieArchiveApi\MovieArchive.Business\obj\Debug\net10.0\MovieArchive.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\BackendEgitimi\05-WebAPI\Week10\Odev10\MovieArchiveApi\MovieArchive.Business\obj\Debug\net10.0\MovieArchive.Business.AssemblyInfoInputs.cache
+C:\GitHub\BackendEgitimi\05-WebAPI\Week10\Odev10\MovieArchiveApi\MovieArchive.Business\obj\Debug\net10.0\MovieArchive.Business.AssemblyInfo.cs
+C:\GitHub\BackendEgitimi\05-WebAPI\Week10\Odev10\MovieArchiveApi\MovieArchive.Business\obj\Debug\net10.0\MovieArchive.Business.csproj.CoreCompileInputs.cache
+C:\GitHub\BackendEgitimi\05-WebAPI\Week10\Odev10\MovieArchiveApi\MovieArchive.Business\obj\Debug\net10.0\MovieArchive.Business.sourcelink.json
+C:\GitHub\BackendEgitimi\05-WebAPI\Week10\Odev10\MovieArchiveApi\MovieArchive.Business\obj\Debug\net10.0\MovieArc.318826B0.Up2Date
+C:\GitHub\BackendEgitimi\05-WebAPI\Week10\Odev10\MovieArchiveApi\MovieArchive.Business\obj\Debug\net10.0\MovieArchive.Business.dll
+C:\GitHub\BackendEgitimi\05-WebAPI\Week10\Odev10\MovieArchiveApi\MovieArchive.Business\obj\Debug\net10.0\refint\MovieArchive.Business.dll
+C:\GitHub\BackendEgitimi\05-WebAPI\Week10\Odev10\MovieArchiveApi\MovieArchive.Business\obj\Debug\net10.0\MovieArchive.Business.pdb
+C:\GitHub\BackendEgitimi\05-WebAPI\Week10\Odev10\MovieArchiveApi\MovieArchive.Business\obj\Debug\net10.0\ref\MovieArchive.Business.dll

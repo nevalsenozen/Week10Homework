@@ -1,0 +1,12 @@
+C:\GitHub\BackendEgitimi\05-WebAPI\Week10\Odev10\MovieArchiveApi\MovieArchive.Data\bin\Debug\net10.0\MovieArchive.Data.deps.json
+C:\GitHub\BackendEgitimi\05-WebAPI\Week10\Odev10\MovieArchiveApi\MovieArchive.Data\bin\Debug\net10.0\MovieArchive.Data.dll
+C:\GitHub\BackendEgitimi\05-WebAPI\Week10\Odev10\MovieArchiveApi\MovieArchive.Data\bin\Debug\net10.0\MovieArchive.Data.pdb
+C:\GitHub\BackendEgitimi\05-WebAPI\Week10\Odev10\MovieArchiveApi\MovieArchive.Data\obj\Debug\net10.0\MovieArchive.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\BackendEgitimi\05-WebAPI\Week10\Odev10\MovieArchiveApi\MovieArchive.Data\obj\Debug\net10.0\MovieArchive.Data.AssemblyInfoInputs.cache
+C:\GitHub\BackendEgitimi\05-WebAPI\Week10\Odev10\MovieArchiveApi\MovieArchive.Data\obj\Debug\net10.0\MovieArchive.Data.AssemblyInfo.cs
+C:\GitHub\BackendEgitimi\05-WebAPI\Week10\Odev10\MovieArchiveApi\MovieArchive.Data\obj\Debug\net10.0\MovieArchive.Data.csproj.CoreCompileInputs.cache
+C:\GitHub\BackendEgitimi\05-WebAPI\Week10\Odev10\MovieArchiveApi\MovieArchive.Data\obj\Debug\net10.0\MovieArchive.Data.sourcelink.json
+C:\GitHub\BackendEgitimi\05-WebAPI\Week10\Odev10\MovieArchiveApi\MovieArchive.Data\obj\Debug\net10.0\MovieArchive.Data.dll
+C:\GitHub\BackendEgitimi\05-WebAPI\Week10\Odev10\MovieArchiveApi\MovieArchive.Data\obj\Debug\net10.0\refint\MovieArchive.Data.dll
+C:\GitHub\BackendEgitimi\05-WebAPI\Week10\Odev10\MovieArchiveApi\MovieArchive.Data\obj\Debug\net10.0\MovieArchive.Data.pdb
+C:\GitHub\BackendEgitimi\05-WebAPI\Week10\Odev10\MovieArchiveApi\MovieArchive.Data\obj\Debug\net10.0\ref\MovieArchive.Data.dll
