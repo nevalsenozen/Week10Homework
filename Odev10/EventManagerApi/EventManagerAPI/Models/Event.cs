@@ -10,11 +10,11 @@ namespace EventManagerAPI.Models
 
         [Required]
         [MustStartWithUppercase]
-        public string Name { get; set; }
+        public string Name { get; set; } = "";
 
         [Required]
         [DescriptionMustNotContainName]
-        public string Description { get; set; }
+        public string Description { get; set; } = "";
 
         [Required]
         [NoPastDate]

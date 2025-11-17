@@ -5,7 +5,7 @@ namespace EventManagerAPI.ValidationAttributes
 {
     public class MustStartWithUppercaseAttribute : ValidationAttribute
     {
-        protected override ValidationResult IsValid(object value, ValidationContext validationContext)
+        protected override ValidationResult? IsValid(object? value, ValidationContext validationContext)
         {
             if (value is string str && str.Length > 0 && !char.IsUpper(str[0]))
             {

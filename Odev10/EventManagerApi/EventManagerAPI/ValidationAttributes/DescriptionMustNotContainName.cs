@@ -6,7 +6,7 @@ namespace EventManagerAPI.ValidationAttributes
 {
     public class DescriptionMustNotContainNameAttribute : ValidationAttribute
     {
-        protected override ValidationResult IsValid(object value, ValidationContext validationContext)
+        protected override ValidationResult? IsValid(object? value, ValidationContext validationContext)
         {
             var eventInstance = (Event)validationContext.ObjectInstance;
             if (value is string description && !string.IsNullOrEmpty(eventInstance.Name))
