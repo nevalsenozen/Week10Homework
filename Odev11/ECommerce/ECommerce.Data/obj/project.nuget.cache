@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AHtV4knrHZM=",
+  "dgSpecHash": "v4ia64LJKHo=",
   "success": true,
-  "projectFilePath": "C:\\GitHub\\BackendEgitimi\\05-WebAPI\\Week11\\ECommerce\\ECommerce.Data\\ECommerce.Data.csproj",
+  "projectFilePath": "C:\\GitHub\\Week10Homework\\Odev11\\ECommerce\\ECommerce.Data\\ECommerce.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\neval\\.nuget\\packages\\microsoft.data.sqlite.core\\10.0.0\\microsoft.data.sqlite.core.10.0.0.nupkg.sha512",
     "C:\\Users\\neval\\.nuget\\packages\\microsoft.entityframeworkcore\\10.0.0\\microsoft.entityframeworkcore.10.0.0.nupkg.sha512",

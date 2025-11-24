@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\GitHub\\BackendEgitimi\\05-WebAPI\\Week11\\ECommerce\\ECommerce.Data\\ECommerce.Data.csproj": {}
+    "C:\\GitHub\\Week10Homework\\Odev11\\ECommerce\\ECommerce.Data\\ECommerce.Data.csproj": {}
   },
   "projects": {
-    "C:\\GitHub\\BackendEgitimi\\05-WebAPI\\Week11\\ECommerce\\ECommerce.Data\\ECommerce.Data.csproj": {
+    "C:\\GitHub\\Week10Homework\\Odev11\\ECommerce\\ECommerce.Data\\ECommerce.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GitHub\\BackendEgitimi\\05-WebAPI\\Week11\\ECommerce\\ECommerce.Data\\ECommerce.Data.csproj",
+        "projectUniqueName": "C:\\GitHub\\Week10Homework\\Odev11\\ECommerce\\ECommerce.Data\\ECommerce.Data.csproj",
         "projectName": "ECommerce.Data",
-        "projectPath": "C:\\GitHub\\BackendEgitimi\\05-WebAPI\\Week11\\ECommerce\\ECommerce.Data\\ECommerce.Data.csproj",
+        "projectPath": "C:\\GitHub\\Week10Homework\\Odev11\\ECommerce\\ECommerce.Data\\ECommerce.Data.csproj",
         "packagesPath": "C:\\Users\\neval\\.nuget\\packages\\",
-        "outputPath": "C:\\GitHub\\BackendEgitimi\\05-WebAPI\\Week11\\ECommerce\\ECommerce.Data\\obj\\",
+        "outputPath": "C:\\GitHub\\Week10Homework\\Odev11\\ECommerce\\ECommerce.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\neval\\AppData\\Roaming\\NuGet\\NuGet.Config"

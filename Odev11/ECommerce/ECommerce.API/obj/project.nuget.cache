@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sY4kPmOmi/I=",
+  "dgSpecHash": "AHhWfiOBzv4=",
   "success": true,
-  "projectFilePath": "C:\\GitHub\\BackendEgitimi\\05-WebAPI\\Week11\\ECommerce\\ECommerce.API\\ECommerce.API.csproj",
+  "projectFilePath": "C:\\GitHub\\Week10Homework\\Odev11\\ECommerce\\ECommerce.API\\ECommerce.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\neval\\.nuget\\packages\\automapper\\15.1.0\\automapper.15.1.0.nupkg.sha512",
     "C:\\Users\\neval\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

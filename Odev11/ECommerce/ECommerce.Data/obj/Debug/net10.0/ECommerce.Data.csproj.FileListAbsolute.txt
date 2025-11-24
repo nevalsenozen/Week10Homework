@@ -11,3 +11,16 @@ C:\GitHub\BackendEgitimi\05-WebAPI\Week11\ECommerce\ECommerce.Data\obj\Debug\net
 C:\GitHub\BackendEgitimi\05-WebAPI\Week11\ECommerce\ECommerce.Data\obj\Debug\net10.0\refint\ECommerce.Data.dll
 C:\GitHub\BackendEgitimi\05-WebAPI\Week11\ECommerce\ECommerce.Data\obj\Debug\net10.0\ECommerce.Data.pdb
 C:\GitHub\BackendEgitimi\05-WebAPI\Week11\ECommerce\ECommerce.Data\obj\Debug\net10.0\ref\ECommerce.Data.dll
+C:\GitHub\Week10Homework\Odev11\ECommerce\ECommerce.Data\bin\Debug\net10.0\ECommerce.Data.deps.json
+C:\GitHub\Week10Homework\Odev11\ECommerce\ECommerce.Data\bin\Debug\net10.0\ECommerce.Data.dll
+C:\GitHub\Week10Homework\Odev11\ECommerce\ECommerce.Data\bin\Debug\net10.0\ECommerce.Data.pdb
+C:\GitHub\Week10Homework\Odev11\ECommerce\ECommerce.Data\obj\Debug\net10.0\ECommerce.Data.csproj.AssemblyReference.cache
+C:\GitHub\Week10Homework\Odev11\ECommerce\ECommerce.Data\obj\Debug\net10.0\ECommerce.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\Week10Homework\Odev11\ECommerce\ECommerce.Data\obj\Debug\net10.0\ECommerce.Data.AssemblyInfoInputs.cache
+C:\GitHub\Week10Homework\Odev11\ECommerce\ECommerce.Data\obj\Debug\net10.0\ECommerce.Data.AssemblyInfo.cs
+C:\GitHub\Week10Homework\Odev11\ECommerce\ECommerce.Data\obj\Debug\net10.0\ECommerce.Data.csproj.CoreCompileInputs.cache
+C:\GitHub\Week10Homework\Odev11\ECommerce\ECommerce.Data\obj\Debug\net10.0\ECommerce.Data.sourcelink.json
+C:\GitHub\Week10Homework\Odev11\ECommerce\ECommerce.Data\obj\Debug\net10.0\ECommerce.Data.dll
+C:\GitHub\Week10Homework\Odev11\ECommerce\ECommerce.Data\obj\Debug\net10.0\refint\ECommerce.Data.dll
+C:\GitHub\Week10Homework\Odev11\ECommerce\ECommerce.Data\obj\Debug\net10.0\ECommerce.Data.pdb
+C:\GitHub\Week10Homework\Odev11\ECommerce\ECommerce.Data\obj\Debug\net10.0\ref\ECommerce.Data.dll

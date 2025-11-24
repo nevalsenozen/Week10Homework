@@ -10,11 +10,16 @@ public class MappingProfile : Profile
     public MappingProfile()
     {
         CreateMap<Product, ProductDto>();
-        CreateMap<ProductCreateDto, Product>();
+       /* CreateMap<ProductCreateDto, Product>()
+            .ForMember(dest => dest.TaxIncludedPrice,
+                       opt => opt.MapFrom(src => src.Price * 1.20m));*/
+        CreateMap<Product, ProductDto>()
+            .ForMember(dest => dest.TaxIncludedPrice,
+               opt => opt.MapFrom(src => src.Price * 1.20m)); //burada aldığım hatanın sebebini bilmiyorum nasıl çözdüğüm hakkında da bir fikrim yok :(
 
         CreateMap<ProductUpdateDto, Product>();
 
-        CreateMap<Customer,CustomerDTO>();
+        CreateMap<Customer,CustomerDto>();
         CreateMap<CustomerCreateDto,Customer>();
     }
 }
